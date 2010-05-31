@@ -1,0 +1,2 @@
+this library allows you to send post requests across domains by inserting iframes
+you do not have access to the response, due to the cross domain policy, but you can submit them in the first place
